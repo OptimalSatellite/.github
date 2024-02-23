@@ -1,0 +1,2 @@
+Optimal Satellite designs intelligent, automated solutions for satellite resource optimization and management. We will analyze your needs and create a software system utilizing proven optimization algorithms and mathematical modeling. All of our solutions leverage software industry best practices for ease of integration, real-time operational resilience, and horizontal scaling to meet current and future needs.
+
